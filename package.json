@@ -1,0 +1,19 @@
+{
+  "name": "telegram-tweeter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayachi-code/telegram-bot-tweeter.git"
+  },
+  "author": "bilal el ayachi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ayachi-code/telegram-bot-tweeter/issues"
+  },
+  "homepage": "https://github.com/ayachi-code/telegram-bot-tweeter#readme"
+}
